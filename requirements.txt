@@ -1,1 +1,4 @@
-BitVector~=3.4.9
+BitVector
+matplotlib
+pillow
+
